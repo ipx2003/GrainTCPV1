@@ -8,14 +8,6 @@
 
 本项目代码由 Claude Opus AI 辅助生成
 
-**天诚修复与新增功能：**
-*   ❇️ 修复了 Cloudflare 网站不能访问的问题。
-*   ❇️ 新增加了机场三字码的适配。
-*   ❇️ 新增优选IP支持。
-*   ❇️ 新增解锁 Emby 播放器。
-*   ❇️ 新增了韩国节点适配。
-*   ❇️ Vless 订阅器内置 CSV 文件优化识别功能。
-
 **引用的开源项目与服务：**
 *   **源代码作者**：[Alexandre_Kojeve](https://t.me/Alexandre_Kojeve) (致敬原版 stallTCP1.32)
 *   **源代码作者GitHub主页**：[Alexandre_Kojeve](https://github.com/orgs/ToiCF/repositories)
